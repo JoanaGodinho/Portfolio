@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "Content/css/grayscale.min.css",
+    "inputFiles": [
+      "Content/css/grayscale.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/timeline.min.css",
+    "inputFiles": [
+      "Content/css/timeline.css"
+    ]
+  }
+]
